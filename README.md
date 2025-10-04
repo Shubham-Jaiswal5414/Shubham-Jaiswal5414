@@ -115,9 +115,9 @@ VS Code • IntelliJ IDEA • Git & GitHub • Postman • Spring Boot DevTools 
 
 ## 📫 Connect with Me
 
-- 📧 Email: [shubhamjaiswal@email.com](mailto:shubhamjaiswal@email.com)  
-- 💼 LinkedIn: [linkedin.com/in/shubham-jaiswal](https://linkedin.com/in/shubham-jaiswal)  
-- 🧑‍💻 GitHub: [shubhamjaiswal123](https://github.com/shubhamjaiswal123)
+- 📧 Email: [jaiswal29082003@email.com](mailto:jaiswal29082003@email.com)  
+- 💼 LinkedIn: [linkedin.com/in/shubham-jaiswal]([https://linkedin.com/in/shubham-jaiswal](https://www.linkedin.com/in/shubham-jaiswal-894613362?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+- 🧑‍💻 GitHub: [SHUBHAM-JAISWAL5414](https://github.com/Shubham-Jaiswal5414)
 
 ---
 
