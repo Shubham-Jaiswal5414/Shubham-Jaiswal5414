@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>3rd Year Computer Science Engineering Student</b><br>
-  <img src="https://cdn.simpleicons.org/java/007396" width="20" height="20" alt="Java logo" /> Java Developer |
+   Java Developer |
   <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="20" height="20" alt="Spring Boot logo" /> Spring Boot Enthusiast |
   <img src="https://cdn.simpleicons.org/react/61DAFB" width="20" height="20" alt="React logo" /> React Learner |
   <img src="https://cdn.simpleicons.org/linux/FCC624" width="20" height="20" alt="Linux logo" /> Linux User |
