@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>3rd Year Computer Science Engineering Student</b><br>
-  MERN Stack Developer | Java Enthusiast | Linux Power User | Network & DB Geek
+  Java Developer | Spring Boot Enthusiast | React Learner | Linux User | Network & DB Geek
 </p>
 
 ---
@@ -21,10 +21,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm a 3rd Year CSE student with a love for **full-stack development** and **networked systems**.
-- 🧱 Skilled in **SpringBoot,MERN stack**, **Java**, and **database design**.
-- 🐧 Passionate about **Linux**, **DevOps basics**, and **backend scalability**.
-- 🚀 Currently diving into **Docker**, **CI/CD workflows**, and **cloud deployments**.
+- 🎓 I'm a *3rd Year Computer Science Engineering student* passionate about *Full Stack Development* and *Backend Engineering*.  
+- 💡 I build web applications using *Spring Boot (Backend)* and *React (Frontend)* with a strong foundation in *Java* and *MySQL*.  
+- 🧠 I enjoy designing efficient database schemas, writing clean backend logic, and creating responsive UIs.  
+- 🐧 I’m also comfortable working in *Linux environments, managing servers, and understanding **networking concepts*.  
+- 🚀 Currently exploring *RESTful APIs, **microservices basics, and improving my **problem-solving* skills in Java.  
 
 ---
 
@@ -35,58 +36,49 @@
 <table>
   <tr>
     <td align="center" width="80">
-      <img src="https://cdn.simpleicons.org/mongodb/47A248" width="30" height="30" /><br/>MongoDB
+      <img src="https://cdn.simpleicons.org/java/007396" width="30" height="30" /><br/>Java
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.simpleicons.org/express/000000" width="30" height="30" /><br/>Express.js
+      <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="30" height="30" /><br/>Spring Boot
     </td>
     <td align="center" width="80">
       <img src="https://cdn.simpleicons.org/react/61DAFB" width="30" height="30" /><br/>React
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.simpleicons.org/node.js/339933" width="30" height="30" /><br/>Node.js
+      <img src="https://cdn.simpleicons.org/html5/E34F26" width="30" height="30" /><br/>HTML5
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/next.js/000000" width="30" height="30" /><br/>Next.js
+      <img src="https://cdn.simpleicons.org/css3/1572B6" width="30" height="30" /><br/>CSS3
     </td>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/redux/764ABC" width="30" height="30" /><br/>Redux
-    </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/typescript/3178C6" width="30" height="30" /><br/>TypeScript
-    </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="30" height="30" /><br/>JavaScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/java/007396" width="30" height="30" /><br/>Java
+      <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="30" height="30" /><br/>Bootstrap
     </td>
     <td align="center">
       <img src="https://cdn.simpleicons.org/mysql/4479A1" width="30" height="30" /><br/>MySQL
     </td>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/postgresql/336791" width="30" height="30" /><br/>PostgreSQL
-    </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/linux/FCC624" width="30" height="30" /><br/>Linux
+      <img src="https://cdn.simpleicons.org/h2database/007396" width="30" height="30" /><br/>H2 Database
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="30" height="30" /><br/>Networking
+      <img src="https://cdn.simpleicons.org/linux/FCC624" width="30" height="30" /><br/>Linux
     </td>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/docker/2496ED" width="30" height="30" /><br/>Docker
+      <img src="https://cdn.simpleicons.org/git/F05032" width="30" height="30" /><br/>Git
     </td>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/vercel/000000" width="30" height="30" /><br/>Vercel
+      <img src="https://cdn.simpleicons.org/github/181717" width="30" height="30" /><br/>GitHub
     </td>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="30" height="30" /><br/>Netlify
+      <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="30" height="30" /><br/>VS Code
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/networkx/1BA0D7" width="30" height="30" /><br/>Networking
     </td>
   </tr>
 </table>
@@ -97,17 +89,18 @@
 
 ## 🔧 Tools I Use
 
-VS Code • Git & GitHub • Postman • Nginx • GitHub Actions • Linux CLI • MongoDB Compass • AWS Basics
+VS Code • IntelliJ IDEA • Git & GitHub • Postman • Spring Boot DevTools • MySQL Workbench • Linux CLI • H2 Console • Bootstrap Studio  
 
 ---
 
 ## 🧠 Areas of Expertise
 
-- 🔷 **MERN Stack** — REST APIs, auth, deployment, frontend/backend synergy  
-- 🔶 **Java** — OOP principles, problem-solving, multithreading  
-- 🟩 **Databases** — Schema design, SQL/NoSQL, indexing  
-- 🟨 **Linux** — Bash scripting, system monitoring, permissions  
-- 🔵 **Networking** — Subnetting, routing, firewalls, tools like Wireshark
+- 💻 *Full Stack Development (React + Spring Boot)* — REST APIs, frontend-backend integration, deployment  
+- ☕ *Java* — OOP principles, data structures, multithreading, and exception handling  
+- 🗄 *Databases* — MySQL, H2, schema design, queries, joins, and relationships  
+- 🐧 *Linux* — bash commands, file management, system operations, and permissions  
+- 🌐 *Networking* — subnetting, IP addressing, routing, and practical configuration  
+- 🎨 *Frontend Development* — clean UI design using HTML, CSS, and Bootstrap  
 
 ---
 
