@@ -82,7 +82,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.icons8.com/ios-filled/50/network-card.png" width="30" /><br/>Networking
+      <img src="https://cdn.simpleicons.org/networkx/1BA0D7" width="30" height="30" /><br/>Networking
     </td>
   </tr>
 </table>
@@ -93,18 +93,7 @@
 
 ## 🔧 Tools I Use
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="30" /> VS Code &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/intellijidea/000000" width="30" /> IntelliJ IDEA &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git/F05032" width="30" /> Git &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/181717" width="30" /> GitHub &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="30" /> Postman &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="30" /> Spring Boot DevTools &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="30" /> MySQL Workbench &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/linux/FCC624" width="30" /> Linux CLI &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/h2database/007396" width="30" /> H2 Console &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="30" /> Bootstrap Studio
-</p>
+VS Code • IntelliJ IDEA • Git & GitHub • Postman • Spring Boot DevTools • MySQL Workbench • Linux CLI • H2 Console • Bootstrap Studio  
 
 ---
 
@@ -122,12 +111,8 @@
 ## 🏅 Badges & Profiles
 
 <p align="left">
-  <a href="https://www.hackerrank.com/your_hackerrank_username">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://leetcode.com/your_leetcode_username">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
+  <a href="https://www.hackerrank.com/shubham_username"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://leetcode.com/shubham_username"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 </p>
 
 ---
@@ -156,4 +141,20 @@
 
 <!-- Coding GIF Gallery -->
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat coding" width="400" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Matrix code rain" width="400" />
+  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" alt="Terminal hacking" width="400" />
+  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" alt="Glitchy code" width="400" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Typing loop" width="400" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Working on code" width="400" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shubham-Jaiswal5414&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
+<p align="center">
+  <sub>🕓 Last updated on <strong>October 4, 2025</strong></sub>
+</p>
