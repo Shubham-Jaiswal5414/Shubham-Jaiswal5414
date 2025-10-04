@@ -1,19 +1,3 @@
-Sure! Below is your **updated `README.md`** file with the following improvements:
-
----
-
-### ✅ **Changes Made:**
-
-* **Added missing logos** in the **"Tools I Use"** section.
-* **Corrected** the Networking logo.
-* **Updated badge links placeholders** (you still need to replace them with your actual usernames).
-* Minor visual polishing.
-
----
-
-### ✅ **Updated `README.md`:**
-
-```markdown
 <h1 align="center">Hey there 👋, I'm Shubham Jaiswal</h1>
 
 <p align="center">
@@ -173,4 +157,3 @@ Sure! Below is your **updated `README.md`** file with the following improvements
 <!-- Coding GIF Gallery -->
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0
-```
