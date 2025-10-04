@@ -22,7 +22,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 I'm a 3rd Year CSE student with a love for **full-stack development** and **networked systems**.
-- 🧱 Skilled in **MERN stack**, **Java**, and **database design**.
+- 🧱 Skilled in **SpringBoot,MERN stack**, **Java**, and **database design**.
 - 🐧 Passionate about **Linux**, **DevOps basics**, and **backend scalability**.
 - 🚀 Currently diving into **Docker**, **CI/CD workflows**, and **cloud deployments**.
 
@@ -116,7 +116,6 @@ VS Code • Git & GitHub • Postman • Nginx • GitHub Actions • Linux CLI 
 <p align="left">
   <a href="https://www.hackerrank.com/shubham_username"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
   <a href="https://leetcode.com/shubham_username"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="https://codeforces.com/profile/shubham_username"><img src="https://img.shields.io/badge/Codeforces-Handle-1F8ACB?logo=codeforces" alt="Codeforces" /></a>
 </p>
 
 ---
