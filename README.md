@@ -2,30 +2,34 @@
 
 <p align="center">
   <b>3rd Year Computer Science Engineering Student</b><br>
-  Java Developer | Spring Boot Enthusiast | React Learner | Linux User | Network & DB Geek
+  <img src="https://cdn.simpleicons.org/java/007396" width="20" height="20" alt="Java logo" /> Java Developer |
+  <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="20" height="20" alt="Spring Boot logo" /> Spring Boot Enthusiast |
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="20" height="20" alt="React logo" /> React Learner |
+  <img src="https://cdn.simpleicons.org/linux/FCC624" width="20" height="20" alt="Linux logo" /> Linux User |
+  Network & DB Geek
 </p>
 
 ---
 
 <!-- GitHub Stats Section -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamjaiswal123&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamjaiswal123&theme=radical" height="180" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubham-Jaiswal5414&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Jaiswal5414&theme=radical" height="180" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamjaiswal123&layout=compact&theme=radical" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Jaiswal5414&layout=compact&theme=radical" height="140" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm a *3rd Year Computer Science Engineering student* passionate about *Full Stack Development* and *Backend Engineering*.  
-- 💡 I build web applications using *Spring Boot (Backend)* and *React (Frontend)* with a strong foundation in *Java* and *MySQL*.  
+- 🎓 I'm a 3rd Year Computer Science Engineering student passionate about Full Stack Development and Backend Engineering.  
+- 💡 I build web applications using Spring Boot (Backend) and React (Frontend) with a strong foundation in Java and MySQL.  
 - 🧠 I enjoy designing efficient database schemas, writing clean backend logic, and creating responsive UIs.  
-- 🐧 I’m also comfortable working in *Linux environments, managing servers, and understanding **networking concepts*.  
-- 🚀 Currently exploring *RESTful APIs, **microservices basics, and improving my **problem-solving* skills in Java.  
+- 🐧 I’m also comfortable working in Linux environments, managing servers, and understanding networking concepts.  
+- 🚀 Currently exploring RESTful APIs, microservices basics, and improving my problem-solving skills in Java.  
 
 ---
 
@@ -95,12 +99,12 @@ VS Code • IntelliJ IDEA • Git & GitHub • Postman • Spring Boot DevTools 
 
 ## 🧠 Areas of Expertise
 
-- 💻 *Full Stack Development (React + Spring Boot)* — REST APIs, frontend-backend integration, deployment  
-- ☕ *Java* — OOP principles, data structures, multithreading, and exception handling  
-- 🗄 *Databases* — MySQL, H2, schema design, queries, joins, and relationships  
-- 🐧 *Linux* — bash commands, file management, system operations, and permissions  
-- 🌐 *Networking* — subnetting, IP addressing, routing, and practical configuration  
-- 🎨 *Frontend Development* — clean UI design using HTML, CSS, and Bootstrap  
+- 💻 Full Stack Development (React + Spring Boot) — REST APIs, frontend-backend integration, deployment  
+- ☕ Java — OOP principles, data structures, multithreading, and exception handling  
+- 🗄 Databases — MySQL, H2, schema design, queries, joins, and relationships  
+- 🐧 Linux — bash commands, file management, system operations, and permissions  
+- 🌐 Networking — subnetting, IP addressing, routing, and practical configuration  
+- 🎨 Frontend Development — clean UI design using HTML, CSS, and Bootstrap  
 
 ---
 
@@ -113,11 +117,19 @@ VS Code • IntelliJ IDEA • Git & GitHub • Postman • Spring Boot DevTools 
 
 ---
 
+## 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham-Jaiswal5414&theme=react-dark&hide_border=true" width="95%" alt="activity graph" />
+</p>
+
+---
+
 ## 📫 Connect with Me
 
 - 📧 Email: [jaiswal29082003@email.com](mailto:jaiswal29082003@email.com)  
-- 💼 LinkedIn: [linkedin.com/in/shubham-jaiswal]([https://linkedin.com/in/shubham-jaiswal](https://www.linkedin.com/in/shubham-jaiswal-894613362?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
-- 🧑‍💻 GitHub: [SHUBHAM-JAISWAL5414](https://github.com/Shubham-Jaiswal5414)
+- 💼 LinkedIn: [linkedin.com/in/shubham-jaiswal](https://www.linkedin.com/in/shubham-jaiswal-894613362?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 🧑‍💻 GitHub: [Shubham-Jaiswal5414](https://github.com/Shubham-Jaiswal5414)
 
 ---
 
@@ -129,7 +141,6 @@ VS Code • IntelliJ IDEA • Git & GitHub • Postman • Spring Boot DevTools 
 
 <!-- Coding GIF Gallery -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Typing code fast" width="400" />
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat coding" width="400" />
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Matrix code rain" width="400" />
   <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" alt="Terminal hacking" width="400" />
@@ -141,7 +152,7 @@ VS Code • IntelliJ IDEA • Git & GitHub • Postman • Spring Boot DevTools 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhamjaiswal123&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Shubham-Jaiswal5414&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 <p align="center">
