@@ -42,16 +42,23 @@
 
 ---
 
-<h3 align="left">🌐 Connect with Me:</h3>
-<p align="left">
+<h3 align="center">🌐 Connect with Me</h3>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/shubham-jaiswal-894613362?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
   <a href="https://github.com/Shubham-Jaiswal5414" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" height="30" width="40" />
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:jaiswal29082003@email.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/shubham_username" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/shubham_username" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
 </p>
 
