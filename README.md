@@ -11,10 +11,6 @@
 </p>
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham-Jaiswal5414&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Jaiswal5414&theme=radical" height="180" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Jaiswal5414&layout=compact&theme=radical" height="140" />
