@@ -1,9 +1,14 @@
-# 💫 Hi 👋, I'm Shubham Jaiswal
+<h1 align="center">Hi 👋, I'm Shubham Jaiswal</h1>
+<h3 align="center">🚀 Java Backend Developer | Spring Boot Enthusiast | CS Student</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9E4C98&center=true&vCenter=true&width=435&lines=Building+Scalable+Backends;Spring+Boot+%2B+Microservices;Exploring+System+Design;Always+Learning+Java+..." alt="Typing SVG" /></a>
+</p>
+
 <p align="center">
   <b>3rd Year Computer Science Engineering Student</b><br>
   ☕ Java Developer | 🌿 Spring Boot Enthusiast | ⚛️ React Learner | 🐧 Linux User | 🌐 Network & DB Geek
 </p>
-
 ---
 
 <p align="center">
