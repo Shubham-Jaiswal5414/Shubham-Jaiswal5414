@@ -1,57 +1,136 @@
-<h1 align="center">Hi 👋, I'm Shubham Jaiswal</h1>
-<h3 align="center">☕ Java Backend Developer | 🌿 Spring Boot Enthusiast | 🐧 Linux Lover</h3>
+# 💫 Hi 👋, I'm Shubham Jaiswal
+<p align="center">
+  <b>3rd Year Computer Science Engineering Student</b><br>
+  ☕ Java Developer | 🌿 Spring Boot Enthusiast | ⚛️ React Learner | 🐧 Linux User | 🌐 Network & DB Geek
+</p>
+
+---
 
 <p align="center">
-  <img src="https://github.com/Shubham-Jaiswal5414/Shubham-Jaiswal5414/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubham-Jaiswal5414&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Jaiswal5414&theme=radical" height="180" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Jaiswal5414&layout=compact&theme=radical" height="140" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Shubham-Jaiswal5414&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
 ## 👨‍💻 About Me
 
-> *"I love building backends more than frontends."* 😄
-
-I am a **3rd Year Computer Science Engineering Student** passionate about server-side development. I focus on writing clean, efficient code and building scalable applications using the **Java ecosystem**.
-
-* 🔭 **Current Project:** Working on a **Google Fitness Integration App** & a **Voting System** (Angular + Spring Boot).
-* 🌱 **Learning:** Advanced Data Structures, System Design, and Microservices.
-* 🐧 **Linux Enthusiast:** Comfortable with CLI, server management, and networking.
-* 📫 **Contact:** [jaiswal29082003@email.com](mailto:jaiswal29082003@email.com)
+- 🎓 3rd Year **CSE Student** passionate about **Java, Spring Boot, and Full Stack Development** - 💡 Skilled in **Java, Spring Boot, React, and MySQL** - 🧠 Exploring **Microservices**, **Software Design**, and **REST API Development** - 🐧 Linux Enthusiast with hands-on **server and networking** experience  
+- 🚀 Constant learner, focused on building scalable and user-friendly web apps  
 
 ---
 
-## 🛠️ Tech Stack
+- 🔭 I’m currently working on **Voting Application using Angular + Spring Boot**
+- 🌱 I’m currently learning **Advanced Java, React, and Data Structures**
+- 👯 I’m looking to collaborate on **Spring Boot Open Source Projects**
+- 💬 Ask me about **Java, Spring Boot, REST APIs, MySQL**
+- 📫 Reach me at **jaiswal29082003@email.com**
+- ⚡ Fun fact: **I love building backends more than frontends 😄**
 
-<div align="center">
+---
 
-| **Languages** | **Frameworks & Backend** | **Databases & Tools** |
-|:---:|:---:|:---:|
-| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
-| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+<h3 align="center">🌐 Connect with Me</h3>
 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubham-jaiswal-894613362?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+  </a>
+  <a href="https://github.com/Shubham-Jaiswal5414" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:jaiswal29082003@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/shubham_username" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/shubham_username" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
+</p>
 
 ---
 
 ## 📊 GitHub Analytics
 
+<div align="center">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubham-Jaiswal5414&theme=radical">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shubham-Jaiswal5414&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shubham-Jaiswal5414&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shubham-Jaiswal5414&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shubham-Jaiswal5414&theme=radical&utcOffset=8">
+</div>
+
+---
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Jaiswal5414&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Shubham-Jaiswal5414&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Jaiswal5414&theme=dark&hide_border=false)
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 🧠 Coding Profiles
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham-Jaiswal5414&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Shubham's GitHub Stats" />
+  <a href="https://leetcode.com/shubham_username" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/shubham_username" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
 </p>
 
 ---
 
-<h3 align="center">🤝 Connect with Me</h3>
+## ✨ Coding Vibes
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shubham-jaiswal-894613362" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/shubham_username" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.hackerrank.com/shubham_username" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
+  <img src="https://media3.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="400" />
+  <img src="https://media2.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif" width="400" />
+  <img src="https://media2.giphy.com/media/GghGKaZ8JeHJx0apQC/giphy.gif" width="400" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shubham-Jaiswal5414&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
+<p align="center">
+  <sub>🕓 Last updated on <strong>October 11, 2025</strong></sub>
+</p>
+
+---
+
+### 🔝 Top Contributed Repositories
+![](https://github-contributor-stats.vercel.app/api?username=Shubham-Jaiswal5414&limit=5&theme=dark&combine_all_yearly_contributions=true)
