@@ -11,11 +11,6 @@
 </p>
 ---
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Jaiswal5414&layout=compact&theme=radical" height="140" />
-</p>
-
 ---
 
 ## 🏆 GitHub Trophies
